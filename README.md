@@ -1,5 +1,7 @@
 # Competitve-Programming
 
+Contains solutions to some of the Problems I solved on few famous Programming sites. 
+
 ### Leetcode
 
 Total problems solved: 0
